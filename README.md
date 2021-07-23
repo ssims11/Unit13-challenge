@@ -1,2 +1,2 @@
 # Unit13-challenge
-Define Amazon Lexi Bot with a single intent that establishes a conversation with the end goal of suggesting an retirement portfolio.
+Create a new offering of a new cryptocurrencies investment portfolio for customers. Generate a report of what cryptocurrencies are available on the trading market and how they can be grouped using classification.
